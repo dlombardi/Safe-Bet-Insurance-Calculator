@@ -1,0 +1,24 @@
+{
+  "name": "src",
+  "main": "index.js",
+  "version": "0.0.0",
+  "authors": [
+    "Darien Lombardi <darien.lombardi@gmail.com>"
+  ],
+  "description": "",
+  "moduleType": [
+    "es6"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation": "~5.5.2"
+  }
+}
